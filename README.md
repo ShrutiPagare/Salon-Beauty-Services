@@ -41,7 +41,7 @@ css/
 images/
 salon_backend/
 
-- ## How to Use
+## How to Use
 Open `index.html` in any web browser.
 
 ## Author
