@@ -31,7 +31,7 @@ This is a simple and responsive salon website created to showcase beauty service
 - JavaScript
 - Python (Backend – if applicable)
 
-- ## Project Structure
+## Project Structure
 index.html
 services.html
 gallery.html
